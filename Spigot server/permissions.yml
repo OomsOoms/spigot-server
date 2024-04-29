@@ -1,8 +1,0 @@
-server.basics:
-  description: Default permission for the server
-  default: true
-  children:
-   # /s
-    smpspectator.use: true
-    # /seffect
-    smpspectator.toggle: true
