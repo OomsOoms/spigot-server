@@ -1,0 +1,50 @@
+data:
+  fbc41e0b-fdbe-42f7-9ac3-64154b045c70:
+    Potions: []
+    Water bubbles: 300
+    Needs survival: false
+    Mobs:
+      a37329de-19a2-4a88-a994-92a6129c5725: false
+      892fded7-afd7-4800-a44a-e877084034c4: false
+      56c072ed-fb41-4d86-b2fc-c7b5e861b1f5: false
+      3625c577-d0ba-41c5-bd0f-e639789bd7e2: false
+      26c1d41c-71fa-431a-952b-86e6a1253c9e: false
+      3cb9be8b-fcbe-48cf-98bd-9ebeab4768eb: false
+      36fb1225-e351-4f9e-8e43-936f48ce836e: false
+      f8138e32-68dd-4b11-b8cd-d7e993cc223e: false
+      052c8dcb-5c67-4bb2-83a5-f325f03cb7dd: false
+      85ce43b7-17ae-4c3b-b848-cfd107ea1213: false
+      1fef56a3-bfa3-42c2-9b3a-437f5c164464: false
+      e8ec8c2a-2291-4a48-91a0-62533b8b3263: false
+      9293d999-10cf-4850-9529-38b77a042db3: false
+      68f6c899-c739-4bf5-84ea-806c754a374e: false
+      539ee5da-a98e-4a55-a731-f9a366e6ce12: false
+      7509a141-86c6-4f0b-a3fa-6cd4b8a1ce44: false
+      88fa748f-0ab6-4421-8a36-6b13030746f3: false
+      6eeb3d10-b365-46a7-882b-855b68871e17: false
+      4b800e5e-b781-4453-9b43-b8b848869abf: false
+      ac422201-1753-4d3a-acd1-0a1d19d33a2a: false
+      c75aaf6b-4932-4ed2-948c-31d1e2032f85: false
+      15824b46-571a-4a0b-941b-917a90dbebc8: false
+      022f85a4-c803-41ba-9b9b-53b4d3ff8d1c: false
+      351fa86e-cf54-4319-8e3c-fa686720a4b7: false
+      224b8384-9584-4bfd-98cc-8c42f5465604: false
+      d8e16237-fe7d-40a8-b60c-fc3b88bd451e: false
+      a018999b-157d-4099-8615-e9884482d91c: false
+      a4b028a6-c17a-423c-9f7f-98aa055ef334: false
+      e043ca25-7c1c-49e0-b728-4fc89272314d: false
+      df2e7573-70d6-4c19-b565-e85b8b188bbe: false
+      a68faecc-8780-4d50-9267-c4544b3e2241: false
+      b9041d5c-e275-4cd3-9046-9a8cdc04d0cd: false
+      7574af4c-2645-46b4-9f2b-880951d3acd8: false
+      ca75bb3a-f18d-4cc9-a914-0cbb7cb1463c: false
+      c91e35cc-7703-4b85-a80b-423c61150616: false
+    Fire ticks: -20
+    Location:
+      ==: org.bukkit.Location
+      world: world
+      x: -2.5
+      y: 63.0
+      z: 9.5
+      pitch: -0.30000606
+      yaw: -54.643337
